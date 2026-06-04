@@ -1,5 +1,6 @@
 ## Overview
-This repository contains the source code for the paper **"Iron Deficiency Detection in Plants: Machine Learning to Uncover Significant Wavelengths in Reflectance Spectra"**. The project focuses on iron deficiency detection in Hyperspectral-imaging datasets for tomato, cucumber, barley, maize, and lupine.
+This repository contains the source code for the paper **"Iron Deficiency Detection in Plants: Machine Learning to Uncover Significant Wavelengths in Reflectance Spectra"**. The project focuses on iron deficiency detection in Hyperspectral-imaging datasets for tomato, cucumber, barley, maize, and lupine. The project used hyperspectral imaging to capture leaf reflectance between 400–1000 nm.
+I worked with the processed spectral data extracted from those images.
 
 
 ## Dataset Overview
